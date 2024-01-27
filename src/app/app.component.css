@@ -1,0 +1,14 @@
+.container{
+    padding: 30px;
+}
+.container h1{
+    color: rgb(2, 59, 2);
+}
+.product-card{
+    display: flex;
+   justify-content: space-between;
+}
+.product-btn{
+    background-color:rgb(210, 244, 244);
+    border: none;
+}
