@@ -1,0 +1,28 @@
+.student-form {
+    width: 20%;
+    margin: auto;
+}
+
+.student-form input {
+    display: block;
+    width: 100%;
+    height: 3rem;
+    margin-block: 1rem;
+}
+
+h1 {
+    text-align: center;
+}
+
+.add1 {
+    display: flex;
+}
+
+.add1 button {
+    width: 20%;
+    padding: 1rem;
+    margin-block: 1rem;
+    color: green;
+    background-color: white;
+    border: 1px solid rgb(29, 29, 29);
+}
